@@ -1,8 +1,6 @@
-﻿Voici **`docs/github/creer-repo-github-linux.md`** prêt à copier :
+﻿***
 
-***
-
-### `docs/creer-repo-linux.md`
+### `docs/creer-repo-github-linux.md`
 
 ```markdown
 # Créer un repo GitHub (Linux - Terminal)

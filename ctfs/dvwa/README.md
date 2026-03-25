@@ -10,9 +10,9 @@
 
 | Vulnérabilité | Low | Medium | High | Impossible |
 |---------------|-----|--------|------|------------|
-| [Brute Force](CYBERSEC/ctfs/dvwa/bruteforce.md) | ✅ | 🔄 | 🔄 | 🔄 |
-| [Command Injection](/ctfs/dvwa/command-injection.md) | 🔄 | 🔄 | 🔄 | 🔄 |
-| [CSRF](/ctfs/dvwa/csrf.md) | 🔄 | 🔄 | 🔄 | 🔄 |
+| [Brute Force](./bruteforce.md) | ✅ | 🔄 | 🔄 | 🔄 |
+| [Command Injection](/./command-injection.md) | 🔄 | 🔄 | 🔄 | 🔄 |
+| [CSRF](./csrf.md) | 🔄 | 🔄 | 🔄 | 🔄 |
 | ... | ... | ... | ... | ... |
 
 **🔄** = En cours | **✅** = Terminé

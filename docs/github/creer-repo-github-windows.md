@@ -43,6 +43,17 @@ git commit -m "Premier commit"
 git remote add origin https://github.com/tonuser/mon-projet.git
 git branch -M main
 git push -u origin main
+git branch pour vérifier
+* draft
+  main
+  on est bien sur draft pour travailler en local
+  git checkout draft
+
+>git status
+On branch draft
+Your branch is up to date with 'origin/draft'.
+
+nothing to commit, working tree clean
 ```
 
 ## 5. Workflow quotidien
@@ -56,7 +67,9 @@ git commit -m "Ajout feature X"
 git push
 
 # Récupérer les changements distants
-git pull
+
+git pull ou 
+sur github.com, Create Request main from draft, Pull Request
 ```
 
 ## 6. GitHub Pages (bonus)

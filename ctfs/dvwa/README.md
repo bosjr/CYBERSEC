@@ -10,7 +10,7 @@
 
 | Vulnérabilité | Low | Medium | High | Impossible |
 |---------------|-----|--------|------|------------|
-| [Brute Force](/ctfs/dvwa/bruteforce.md) | ✅ | 🔄 | 🔄 | 🔄 |
+| [Brute Force](CYBERSEC/ctfs/dvwa/bruteforce.md) | ✅ | 🔄 | 🔄 | 🔄 |
 | [Command Injection](/ctfs/dvwa/command-injection.md) | 🔄 | 🔄 | 🔄 | 🔄 |
 | [CSRF](/ctfs/dvwa/csrf.md) | 🔄 | 🔄 | 🔄 | 🔄 |
 | ... | ... | ... | ... | ... |

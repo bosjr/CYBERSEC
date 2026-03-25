@@ -10,9 +10,9 @@
 
 | Vulnérabilité | Low | Medium | High | Impossible |
 |---------------|-----|--------|------|------------|
-| [Brute Force](./bruteforce.md) | ✅ | 🔄 | 🔄 | 🔄 |
-| [Command Injection](/./command-injection.md) | 🔄 | 🔄 | 🔄 | 🔄 |
-| [CSRF](./csrf.md) | 🔄 | 🔄 | 🔄 | 🔄 |
+| [Brute Force](brute-force/bruteforce.md) | ✅ | 🔄 | 🔄 | 🔄 |
+| [Command Injection](command-injection/commandinjection.md) | 🔄 | 🔄 | 🔄 | 🔄 |
+| [CSRF](csrf/csrf.md) | 🔄 | 🔄 | 🔄 | 🔄 |
 | ... | ... | ... | ... | ... |
 
 **🔄** = En cours | **✅** = Terminé
